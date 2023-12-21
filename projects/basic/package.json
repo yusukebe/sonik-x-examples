@@ -12,8 +12,6 @@
     "sonik": "0.0.0-x-0.0.4"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20231218.0",
-    "@types/node": "^20.10.5",
     "vite": "^5.0.10",
     "wrangler": "^3.22.1"
   },
