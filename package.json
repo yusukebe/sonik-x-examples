@@ -1,0 +1,7 @@
+{
+  "name": "sonik-x-examples",
+  "packageManager": "yarn@4.0.2",
+  "workspaces": [
+    "projects/*"
+  ]
+}
